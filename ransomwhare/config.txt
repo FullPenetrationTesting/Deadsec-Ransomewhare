@@ -1,0 +1,24 @@
+
+[DB_CREDS]
+server = localhost
+username = root
+password = 
+db_name = deadsec
+
+[TARGET_EXTENSIONS]
+list1 : ['hack', 'dog']
+
+[EXCLUDED_DIRECTORY]
+#list1 : ['C:\\Users\\satender singh\\Desktop\\',]
+list1 : []
+
+[GUI_SETTINGS]
+ransomeware_title = Deadsec - Ransomeware
+wallet_addr = 22mdKVNfA2L$RDLtRWQFhQJyOgU6gUMjay
+btc_fee = 0.5 BTC
+retrive_key_url = localhost/deadsec/
+about_us_url = localhost/deadsec/about_us.html
+
+[Time_Interval_TO_Change_Wallpaper]
+time_sec = 5
+

@@ -1,0 +1,5 @@
+pycryptodome
+mysql-connector-python
+pyinstaller
+configparser==4.0.2
+pillow

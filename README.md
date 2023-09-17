@@ -5,7 +5,10 @@
   </a>
       <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
-  
+
+<p align="center">
+  <img src="https://github.com/FullPenetrationTesting/Deadsec-Ransomewhare/blob/main/images/deadsec_ransomeware.png" />
+</p>
    
 </p>
 
@@ -26,7 +29,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 ## What is Ransomeware ?
 
 <p align="center">
-  <img src="https://github.com/FullPenetrationTesting/Deadsec-Ransomewhare/blob/master/images/Ransomware-Photo.png" alt="Ransomeware Scenario" width=350 height=350 />
+  <img src="https://github.com/FullPenetrationTesting/Deadsec-Ransomewhare/blob/main/images/Ransomware-Photo.png" />
 </p>
 
 **Ransomware** is a type of malware which **encrypts** the Data of Victim's PC making **Data un-usable**, they are mainly published to Encrypt victim's data which **perpetually block the access** to data unless a ransom is paid to Attacker/Hacker so that Decryption/Recovery of Data could be done. 
@@ -34,7 +37,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 ## Warning : PAY ATTENTION
 
 <p align="center">
-  <img src="https://github.com/FullPenetrationTesting/Deadsec-Ransomewhare/blob/master/images/warning_img.png" alt="Warning Image" />
+  <img src="https://github.com/FullPenetrationTesting/Deadsec-Ransomewhare/blob/main/images/warning_img.png" />
 </p>
 
 If you are using this software then it means you agrees our T&C i.e Any misuse of this software, **YOU - THE END USER** is responsile and not the author.

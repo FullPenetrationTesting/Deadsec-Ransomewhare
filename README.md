@@ -189,25 +189,6 @@ Attack is Divided Into **3 Stages**, Stages are Completed By **Main** Program (m
 	|____C:\Users\USERNAME\Desktop
 ```
 
-## ScreenShots
-
-#### Main GUI Window of NekRos Ransomeware
-![](/images/deadsec_ransomeware.PNG)
-
-#### Check Encryped Files Log ~ GUI Window
-![](/images/Check_LOG_Window.PNG)
-
-#### Decryptor ~ GUI Window
-![](/images/Decryptor.PNG)
-
-#### Database Manager ~ For Attacker 
-![](/images/db_manager.PNG)
-
-#### Website Asking for Machine ID 
-![](/images/website1.png)
-
-#### Website showing Result
-![](/images/website2.png)
 
 ## Usage 
 
